@@ -2,7 +2,7 @@
 
 ## **Oleg Borschchewski**
 
-![My photo](E:\Projects\CV\rsschool-cv\images\IMG_1163.jpg)
+![My photo](https://olegborschtsch.github.io/rsschool-cv/assets/IMG_1163.JPG)
 
 ### **My contacts**
 
