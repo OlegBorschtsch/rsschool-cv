@@ -8,7 +8,7 @@ body {
   min-height: 100vh;
 }
 h2 {
-  margin: auto auto -10px auto;
+  margin: 30px auto auto auto;
 }
 .main-header {
   display: flex;
@@ -42,4 +42,7 @@ ul {
 .footer-flex {
   display: flex;
   justify-content: space-between;
+}
+.img2 {
+  width: 20%;
 }
